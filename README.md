@@ -1,6 +1,6 @@
 # dashing.uptimerobot
 
-# Preview
+## Preview
 ![](https://github.com/sbaerlocher/dashing.uptimerobot/blob/master/uptimerobot.png)
 
 ## Description
