@@ -1,7 +1,7 @@
 # dashing.uptimerobot
 
 # Preview
-![](https://gogs.sbaerlo.ch/sbaerlocher/dashing.uptimerobot/raw/master/uptimerobot.png)
+![](https://github.com/sbaerlocher/dashing.uptimerobot/blob/master/uptimerobot.png)
 
 ## Description
 
